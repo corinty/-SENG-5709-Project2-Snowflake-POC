@@ -1,4 +1,3 @@
-# -SENG-5709-Project2-Snowflake-POC
 # SENG-5709-Project2-Snowflake-POC 
 This Project is all about ingest the sales data from the data warehouse
 into Snowflake and prepare it for analysis and consumption. The data warehouse team has delivered a
